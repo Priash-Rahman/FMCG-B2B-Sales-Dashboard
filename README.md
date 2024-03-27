@@ -8,6 +8,13 @@
 
 ## Problem Statement
 
+*** Project overview : AtliQ hardware which is a sister concern of AtliQ tech who manufactures mainly Pc components , Peripherals , Accessories & sold them globally via retailer , distributor & their direct chain store .
+
+
+*** Project demand : AtliQ hardware wants a one stop data driven business intelligence sollution  based on historical data of the company where they want to view company,s financial statement(P&L),
+Executive view , Product insight , Market insight , Time anlaysis & Supply chain insight for data driven  decision making .
+Later on based on ad-hoc request detail anlaysis can be done .
+
 
 
 ### Steps followed 
