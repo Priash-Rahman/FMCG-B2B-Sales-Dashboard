@@ -4,7 +4,7 @@
 
 # AtliQ hardware business_insight
 
-### Dashboard Link : https://www.novypro.com/project/atliq--hardware-business-insight-project-
+### Dashboard Link : [https://www.novypro.com/project/atliq--hardware-business-insight-project-](https://www.novypro.com/project/atliq--hardware-business-insight-project--power-bi)
 
 ## Problem Statement
 
