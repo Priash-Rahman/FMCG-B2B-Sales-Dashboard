@@ -21,7 +21,7 @@ Later on based on ad-hoc request detail anlaysis can be done .
 
 
 
-  #### Step 19 : Answering business acumen .
+  #### Step 19 : Answering business acumen . (Coming soon  ! )
 
 
 
