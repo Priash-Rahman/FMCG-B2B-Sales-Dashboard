@@ -21,7 +21,8 @@ Later on based on ad-hoc request detail anlaysis can be done .
 
 
 
-  #### Step 19 : Answering business acumen . (Coming soon  ! )
+  ### Business Question 1 : Create a Pareto chart for products to understand high  & low value products.
+  ![Screenshot 2024-08-28 214528](https://github.com/user-attachments/assets/8d0ef3a3-4d36-4924-9ccc-c4168a5dd4da)
 
 
 
